@@ -17,6 +17,7 @@ versión más reciente, la descarga con verificación SHA-256 y se actualiza sol
 
 | Versión | Notas |
 |---------|-------|
+| 1.0.37 | Polígono de pintura plano sobre la vista, sin candado y clasificando todo lo que encierra |
 | 1.0.36 | Nubes estables: puntos por nube, reintentos con espera y autocuración |
 | 1.0.35 | Multiedición de nubes, colores al cambiar de nube y botones de Contenido |
 | 1.0.34 | Actualizaciones automáticas desde GitHub |
